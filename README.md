@@ -12,7 +12,7 @@
       <p><b>地址：东川路800号</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="img-1bb3687ca40ac77b779214beedb9eff4.jpg" width="100%">     
     </td>
   </tr>
 </table>
