@@ -1,4 +1,4 @@
-## Welcome to Yuehan Wang's GitHub Pages
+# Welcome to Yuehan Wang's GitHub Pages
 
 ### 个人信息
 - **姓名：** 王玥涵
